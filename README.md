@@ -33,8 +33,5 @@ Two PCBs are used, one housing the dual LED emitter that emits red and infrared 
 <img src="resources\images\photodiode_sch.jpg" width="400" >
 
 ## Showcase
-<video width="320" height="240" controls>
-  <source src="resources\videos\demo.mp4" type="video/mp4">
-</video>
-
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](resources/videos/demo.mp4)
 p.s: the custom 3d printed housing was terrible so i used a clothespin :D
